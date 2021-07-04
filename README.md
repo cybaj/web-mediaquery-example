@@ -1,5 +1,5 @@
 # web-mediaquery-example
-[MDN](https://developer.mozilla.org/ko/docs/Web/CSS/Media_Queries/Using_media_queries) 설명을 참조함.
+[MDN media queries](https://developer.mozilla.org/ko/docs/Web/CSS/Media_Queries/Using_media_queries) 설명을 참조함.
 - CSS :
     - [CSS](https://developer.mozilla.org/ko/docs/Web/CSS) [@media](https://developer.mozilla.org/ko/docs/Web/CSS/@media)와 [@import](https://developer.mozilla.org/ko/docs/Web/CSS/@import) [@규칙](https://developer.mozilla.org/ko/docs/Web/CSS/At-rule)을 사용해 특정 조건에 따라 스타일을 적용할 때.
 
